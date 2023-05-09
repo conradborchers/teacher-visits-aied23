@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/raw data
+/output_files
+*.png
+*.Rproj
